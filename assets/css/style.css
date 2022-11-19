@@ -116,7 +116,7 @@ h6 {
 
 #header .logo img {
   padding: 0;
-  max-height: 26px;
+  max-height: 50px;
 }
 
 /*--------------------------------------------------------------
@@ -365,9 +365,9 @@ h6 {
   float: right;
 }
 
-@media (max-width: 991px) {
+@media (max-width: 800px) {
   #hero .hero-img {
-    width: 80%;
+    width: 40%;
     float: none;
     margin: 0 auto 25px auto;
   }
@@ -378,9 +378,9 @@ h6 {
   float: left;
 }
 
-@media (max-width: 991px) {
+@media (max-width: 800px) {
   #hero .hero-info {
-    width: 80%;
+    width: 40%;
     float: none;
     margin: auto;
     text-align: center;
@@ -401,7 +401,7 @@ h6 {
 }
 
 #hero .hero-info h2 span {
-  color: #74b5fc;
+  color: #F4D03F;
   text-decoration: underline;
 }
 
@@ -458,7 +458,7 @@ section {
 /* Sections Header
 --------------------------------*/
 .section-header h3 {
-  font-size: 36px;
+  font-size: 50px;
   color: #283d50;
   text-align: center;
   font-weight: 500;
@@ -1404,7 +1404,7 @@ section {
 }
 
 #footer .footer-top h4 {
-  font-size: 14px;
+  font-size: 7px;
   font-weight: bold;
   color: #fff;
   text-transform: uppercase;
@@ -1478,7 +1478,7 @@ section {
 
 #footer .credits {
   text-align: center;
-  font-size: 13px;
+  font-size: 6px;
   color: #f1f7ff;
 }
 
